@@ -1,6 +1,6 @@
 # klipper_self
 self Klipper config file which is not acceptable on the official GitHub page TT. I add some macros to it. 
-This page is mainly for backing up, but feel free to use the code and remaking. Ask me befroe disturbution(after 16/1/2023)
+This page is mainly for backing up, but feel free to use the code and remaking. Ask me befroe disturbution(after 16/1/2023).
 
 ## macros
 ### G29 macros for automatic bed leveling:
