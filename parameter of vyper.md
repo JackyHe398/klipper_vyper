@@ -33,4 +33,6 @@ hotend/heat block/nozzle: volcano hotend
 
 heat block size: 20mm(L)×11.5mm(W)×20mm(H)
 
-y-belt: 2GT 900mm(L)×6mm(W)×1.4±0.2mm(H)
+x-belt: 2GT 900mm(L)×6mm(W)×1.4±0.2mm(H) **(can't sure)**
+
+y-belt: 2GT 810mm(L)×6mm(W)×1.4±0.2mm(H)
