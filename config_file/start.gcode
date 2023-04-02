@@ -18,7 +18,8 @@ G92 E0 ;zero the extruded length
 G1 X60 E38 F400 ; Extrude 25mm of filament in a 4cm line. Reduce speed (F) if you have a nozzle smaller than 0.4mm!
 G92 E0 ;zero the extruded length again
 G1 E-1 F500 ; Retract a little
-G1 Y1 F4000 ; Quickly wipe away from the filament line
-G1 Z0.2
+G1 Z0.5
+G4 P1000
+G1 Y0.5 F4000 ; Quickly wipe away from the filament line
+G1 Z1
 M117 ; Printing…
-G5
