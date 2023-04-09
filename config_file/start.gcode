@@ -6,7 +6,6 @@ BED_MESH_PROFILE LOAD=default
 M190 S{material_bed_temperature_layer_0}
 M109 S{material_print_temperature_layer_0}
 ;*** End Preheating ***
-G28
 G21 ;metric values
 G90 ;absolute positioning
 M82 ;set extruder to absolute mode
